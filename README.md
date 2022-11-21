@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there. I'm Andrew. 👋
+
+- 🔭 I’m currently using machine learning to predict wildfire risk and hazard
+- 🌱 I’m currently learning how to grow beyond my environmental science background into the broader data science community
+- 📫 Connect with me on [LinkedIn] (https://www.linkedin.com/in/anotohamiprodjo)
+
+More to come! :chart:
 
 <!--
 **anotohamiprodjo/anotohamiprodjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
